@@ -9,8 +9,7 @@
     <img align="right" src="https://user-images.githubusercontent.com/74038190/212284103-4e0c64d3-3f33-4a43-b4ef-7c5bffec6b5f.gif" alt="Profile Image" width="300" />
   </a>
 </div>
-
-- 🌍 Actively contributing since **2023**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing the indian pacific" width="30" align="center" />
 - 🎓 Computer Science Student at **Faculty of Computers & AI – Benha University**  
 - 💻 Frontend Developer specialized in **React & Modern Web Apps**  
 - 🚀 Currently improving my skills in **Advanced React & TypeScript**  
