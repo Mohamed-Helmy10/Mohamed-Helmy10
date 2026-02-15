@@ -9,6 +9,8 @@
     <img align="right" src="https://user-images.githubusercontent.com/74038190/212284103-4e0c64d3-3f33-4a43-b4ef-7c5bffec6b5f.gif" alt="Profile Image" width="300" />
   </a>
 </div>
+
+- 🌍 Actively contributing since **2023**  
 - 🎓 Computer Science Student at **Faculty of Computers & AI – Benha University**  
 - 💻 Frontend Developer specialized in **React & Modern Web Apps**  
 - 🚀 Currently improving my skills in **Advanced React & TypeScript**  
@@ -87,3 +89,4 @@
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
