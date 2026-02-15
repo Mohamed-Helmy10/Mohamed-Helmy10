@@ -1,37 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=header"/>
-
-<div>
-<p> 
-<img src="https://komarev.com/ghpvc/?username=Mohamed-Helmy10&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Mohamed-Helmy10" /> 
-</p>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
 <h1 align="center">
 Hi there, I'm 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Mohamed Ahmed Helmy</a> 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">Mohamed Ahmed Helmy</a>
 <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 </h1>
 
-<br /> 
+<br />
 
 <div>
 <a href="https://github.com/Mohamed-Helmy10">
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-3f7b7e8f-8b94-4a37-bce4-14f86f1bb3d7.gif" width="300" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284103-4e0c64d3-3f33-4a43-b4ef-7c5bffec6b5f.gif" width="300" />
 </a>
 </div>
 
-- 🎓 Computer Science Student at Faculty of Computers & AI – Benha University
-- 💻 Frontend Developer focused on React & JavaScript
-- 🌱 Continuously improving my skills in TypeScript & Advanced React
-- 🚀 Passionate about building responsive and user-friendly web applications
-- 🤝 Open to internships, freelance work, and collaboration
-- 🎯 Goal: Grow into a Professional Full Stack Developer
+- 🌍 Actively building projects and improving daily 🚀  
+- 🎓 Computer Science Student at **Faculty of Computers & AI – Benha University**  
+- 💻 Frontend Developer specialized in **React & Modern JavaScript**  
+- 🌱 Currently improving my skills in **TypeScript & Advanced React Patterns**  
+- 🤝 Open to internships, freelance work & collaborations  
+- 🎯 Goal: Become a Professional Full Stack Developer  
 
+---
 
 <h1>🤝 Let's Connect!</h1>
 
 <table align="center">
 <tr>
+
 <td align="center">
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -41,7 +37,7 @@ Hi there, I'm
 
 <td align="center">
 <a href="mailto:YOUR-EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail&theme=light" />
 </a>
 <br>Email
 </td>
@@ -52,6 +48,7 @@ Hi there, I'm
 </a>
 <br>GitHub
 </td>
+
 </tr>
 </table>
 
@@ -61,6 +58,7 @@ Hi there, I'm
 
 <table align="center">
 <tr>
+
 <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
@@ -69,7 +67,20 @@ Hi there, I'm
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"/><br>Bootstrap</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node.js</td>
+
+</tr>
+
+<tr>
+
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55"/><br>Linux</td>
+
 </tr>
 </table>
 
@@ -79,17 +90,21 @@ Hi there, I'm
 
 <div align="center">
 
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Helmy10&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Helmy10&theme=tokyonight&hide_border=true" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed-Helmy10&theme=highcontrast">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohamed-Helmy10&theme=highcontrast">
 
-<img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Helmy10&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Helmy10&show_icons=true&hide_border=true&theme=highcontrast&count_private=true" />
+<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Helmy10&theme=highcontrast&hide_border=true" />
+
+<img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Helmy10&layout=compact&theme=highcontrast&hide_border=true" />
 
 </div>
 
----
+<hr />
 
 <p align="center">
 <b>Thanks for visiting my profile! 🚀</b>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=90&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+
