@@ -21,7 +21,7 @@
   </a>
 </div>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer Science Student at**Faculty of Computers & AI – Benha University**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" />ComputerScienceStudentat**Faculty of Computers & AI – Benha University**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="center" /> Currently working on **Frontend Development** & **Modern Web Apps**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align="center" /> Learning **Advanced React & TypeScript**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Open to **Internships & Collaborations**  
@@ -40,7 +40,7 @@
       <br>LinkedIn
     </td>
     <td align="center">
-        <a href="mailto:YOUR-EMAIL" target="_blank">
+        <a href="mailto:mohammedahmedhelmy5@gmail.com" target="_blank">
             <img src="https://skillicons.dev/icons?i=gmail&theme=light" />
         </a>
         <br>Gmail
@@ -52,7 +52,7 @@
         <br>GitHub
     </td>
     <td align="center">
-        <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
+        <a href="https://" target="_blank">
             <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
         </a>
         <br>Portfolio
@@ -67,20 +67,14 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br>JavaScript</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br>TypeScript</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br>React Js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="55"/><br>Next Js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>Node Js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="55"/><br>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>MySQL</td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>C++</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="55"/><br>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>VS Code</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55"/><br>Linux</td>
   </tr>
 </table>
 
