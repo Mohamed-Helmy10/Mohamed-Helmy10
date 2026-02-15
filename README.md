@@ -10,12 +10,19 @@
   </a>
 </div>
 
-- 🌍 Actively contributing since **2023**  
-- 🎓 Computer Science Student at **Faculty of Computers & AI – Benha University**  
-- 💻 Frontend Developer specialized in **React & Modern Web Apps**  
-- 🚀 Currently improving my skills in **Advanced React & TypeScript**  
-- 🤝 Open to internships & collaborations  
-- 🎯 2026 Goal: Become a Professional Full Stack Developer  
+<div>
+  <a href="https://github.com/Mohamed-Helmy10/">
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/212284103-4e0c64d3-3f33-4a43-b4ef-7c5bffec6b5f.gif" alt="Profile Image" width="300" />
+  </a>
+</div>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe" width="30" align="center" /> Actively contributing since **2023**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer Science Student at **Faculty of Computers & AI – Benha University**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="center" /> Currently working on **Frontend Development** & **Modern Web Apps**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align="center" /> Learning **Advanced React & TypeScript**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Open to **Internships & Collaborations**  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem Stone" width="30" align="center" /> **2026 Goal:** Become a Professional Full Stack Developer
+
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"> Let's Connect! </h1>
 
