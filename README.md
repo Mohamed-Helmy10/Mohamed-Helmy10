@@ -20,14 +20,13 @@ Hi there, I'm
 </a>
 </div>
 
-- 🌍 Actively contributing since **2023**
-- 🎓 Computer Science Student at **Faculty of Computers & AI – Benha University**
-- 💻 Frontend Developer specialized in **React & Modern Web Apps**
-- 🚀 Currently improving my skills in **Advanced React & TypeScript**
-- 🤝 Open to internships & collaborations
-- 🎯 2026 Goal: Become a Professional Full Stack Developer
+- 🎓 Computer Science Student at Faculty of Computers & AI – Benha University
+- 💻 Frontend Developer focused on React & JavaScript
+- 🌱 Continuously improving my skills in TypeScript & Advanced React
+- 🚀 Passionate about building responsive and user-friendly web applications
+- 🤝 Open to internships, freelance work, and collaboration
+- 🎯 Goal: Grow into a Professional Full Stack Developer
 
----
 
 <h1>🤝 Let's Connect!</h1>
 
