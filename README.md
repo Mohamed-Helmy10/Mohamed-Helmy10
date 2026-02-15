@@ -20,8 +20,7 @@
     <img align="right" src="https://user-images.githubusercontent.com/74038190/212284103-4e0c64d3-3f33-4a43-b4ef-7c5bffec6b5f.gif" alt="Profile Image" width="300" />
   </a>
 </div>
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30"  align="center"/>ComputerScienceStudentat**Faculty of Computers & AI – Benha University**  
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30"  align="center"/>ComputerScienceStudentat**Faculty of Computers & AI – Benha University**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align="center" /> Currently working on **Frontend Development** & **Modern Web Apps**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align="center" /> Learning **Advanced React & TypeScript**  
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align="center" /> Open to **Internships & Collaborations**  
@@ -34,7 +33,7 @@
 <table align="center">
   <tr>
     <td align="center">
-        <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+        <a href="https://www.linkedin.com/in/www.linkedin.com/in/mohamed-helmy-a46a4a374" target="_blank">
             <img src="https://skillicons.dev/icons?i=linkedin" />
         </a>
       <br>LinkedIn
@@ -52,7 +51,7 @@
         <br>GitHub
     </td>
     <td align="center">
-        <a href="https://" target="_blank">
+        <a href="https://https://github.com/Mohamed-Helmy10/Portofolio" target="_blank">
             <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
         </a>
         <br>Portfolio
